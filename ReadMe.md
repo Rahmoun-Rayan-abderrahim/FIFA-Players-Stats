@@ -10,10 +10,7 @@
 
 **18,000+ professional football players • 100+ attributes • Complete EDA + Interactive Dashboard**
 
-Live Demo → https://fifa20-players.streamlit.app  
-(Deployed for free on Streamlit Community Cloud)
 
-![Dashboard Preview](https://github.com/Rahmoun-Rayan-abderrahim/FIFA-Players-Stats/blob/main/preview/dashboard_preview.png?raw=true)
 
 ## Project Goal
 Analyze the official **FIFA 20** player dataset (EA Sports) and answer real-world questions recruiters love:
